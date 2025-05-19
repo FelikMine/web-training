@@ -1,0 +1,12 @@
+{
+  "name": "web-training",
+  "version": "1.0.0",
+  "description": "Все задачи из указанных ниже блоков необходимо делать в соответствующих подпапках и создать на каждое задание дополнительную папку с именем задания.\r * JavaScript;\r * TypeScript;\r * ReactJS;\r * NodeJS;\r * Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
